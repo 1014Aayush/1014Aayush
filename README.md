@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on a Job Portal Site<br>👯 I’m looking to collaborate on MERN Stack Projects.<br>🤝 I’m looking for help with MERN Backend<br>🌱 I’m currently learning Js,Python,React.<br>💬 Ask me about nothing.<br>
+🔭 I’m currently working Machine Learning <br>👯 I’m looking to collaborate on Web Dev and ML Projects.<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Js,Python,React,ML.<br>💬 Ask me about nothing.<br>
 
 <img width="50%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
